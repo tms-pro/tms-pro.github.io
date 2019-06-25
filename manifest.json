@@ -1,6 +1,6 @@
 {
-  "name": "web-site",
-  "short_name": "web-site",
+  "name": "tms pro.",
+  "short_name": "tms pro.",
   "icons": [
     {
       "src": "./img/icons/android-chrome-192x192.png",
@@ -16,5 +16,5 @@
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#fff",
-  "theme_color": "##007bff"
+  "theme_color": "#007bff"
 }
