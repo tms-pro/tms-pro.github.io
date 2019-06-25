@@ -8,8 +8,8 @@ self.__precacheManifest = [
     "url": "/js/about.42ae9270.js"
   },
   {
-    "revision": "4e34ceb3b43df70ba03f",
-    "url": "/js/app.676a8865.js"
+    "revision": "fea41e00df28824c6410",
+    "url": "/js/app.3c8ce26d.js"
   },
   {
     "revision": "356cba83ef0818c94059",
@@ -32,7 +32,7 @@ self.__precacheManifest = [
     "url": "/img/templates/8.gif"
   },
   {
-    "revision": "3e96584a3b995005eea432221cdd8742",
+    "revision": "fcce5eb35f0caf98cfef51620607a73a",
     "url": "/index.html"
   },
   {
@@ -64,28 +64,28 @@ self.__precacheManifest = [
     "url": "/img/templates/35.gif"
   },
   {
-    "revision": "7a65e0910efde38001f858fae6742649",
-    "url": "/img/templates/15.jpg"
-  },
-  {
-    "revision": "aefb189b0d639d0199aeb29ddf9286de",
-    "url": "/img/templates/17.jpg"
-  },
-  {
     "revision": "6bd6ceaf8589b4f0c106d57ea5619af2",
     "url": "/img/templates/18.jpg"
   },
   {
-    "revision": "9c5a93b35819855245e0839ef9f0bc53",
-    "url": "/img/templates/2.jpg"
+    "revision": "7a65e0910efde38001f858fae6742649",
+    "url": "/img/templates/15.jpg"
   },
   {
     "revision": "7969a056c8ea2ef433a351f16e6d582d",
     "url": "/img/templates/19.jpg"
   },
   {
+    "revision": "9c5a93b35819855245e0839ef9f0bc53",
+    "url": "/img/templates/2.jpg"
+  },
+  {
     "revision": "9f825b8b21a7a4254b450ecd0fdb376f",
     "url": "/img/templates/23.jpg"
+  },
+  {
+    "revision": "aefb189b0d639d0199aeb29ddf9286de",
+    "url": "/img/templates/17.jpg"
   },
   {
     "revision": "1fe46265508b17fcb546f648c9406935",
@@ -108,8 +108,8 @@ self.__precacheManifest = [
     "url": "/img/templates/31.jpg"
   },
   {
-    "revision": "605c489078125461007bb383d95b792c",
-    "url": "/img/templates/4.jpg"
+    "revision": "de4bc79db3ca699196e09e0c31476658",
+    "url": "/img/templates/3.jpg"
   },
   {
     "revision": "5e17fba8228a6014d4777f12ea751ea7",
@@ -152,8 +152,8 @@ self.__precacheManifest = [
     "url": "/img/templates/27.jpg"
   },
   {
-    "revision": "de4bc79db3ca699196e09e0c31476658",
-    "url": "/img/templates/3.jpg"
+    "revision": "605c489078125461007bb383d95b792c",
+    "url": "/img/templates/4.jpg"
   },
   {
     "revision": "865d9884031cf8006932647d4f74a2e4",
@@ -184,7 +184,7 @@ self.__precacheManifest = [
     "url": "/img/couvertures/c1.jpg"
   },
   {
-    "revision": "4e34ceb3b43df70ba03f",
-    "url": "/css/app.f68e659d.css"
+    "revision": "fea41e00df28824c6410",
+    "url": "/css/app.b6f5eafd.css"
   }
 ];
